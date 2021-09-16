@@ -5,7 +5,7 @@ Final problems for Yandex Practicum Algorithms course
 TopicS:
   1. intro (basics one)
   2. data sctructures
-  3. sort and recurssion
+  3. sort and recursion
   4. hash-functions
   5. trees
   6. graphs
